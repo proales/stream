@@ -14,3 +14,5 @@ VM Setup -
   sudo apt install git
 
 https://github.com/CodingTrain/ChooChooTweets
+
+https://github.com/hamoid/video_export_processing/blob/master/examples/withAudioViz/withAudioViz.pde
