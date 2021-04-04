@@ -1,0 +1,1 @@
+sudo ffmpeg -re -stream_loop -1 -i list.txt -c:v libx264 -preset veryfast -tune zerolatency -c:a aac -ar 44100 -b:a 64k -y -use_wallclock_as_timestamps 1 -async 1 -bufsize 1000 -f flv rtmp://a.rtmp.youtube.com/live2/aswr-arv9-3chg-j19j-b6u4
