@@ -16,3 +16,13 @@ VM Setup -
 https://github.com/CodingTrain/ChooChooTweets
 
 https://github.com/hamoid/video_export_processing/blob/master/examples/withAudioViz/withAudioViz.pde
+
+
+
+https://console.cloud.google.com/compute/instances?project=stream-309720&walkthrough_id=gce_zerostate_learning_overview_goal_based
+https://glitch.com/settings/subscription
+https://mango-glossy-whippoorwill.glitch.me/
+http://code.compartmental.net/minim/index.html
+https://github.com/robbiebarrat/art-DCGAN
+https://github.com/proales/stream
+
